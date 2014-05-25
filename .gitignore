@@ -17,3 +17,6 @@
 
 # Ignore vim .swp files
 /*.swp
+
+# Ignore config/secrets.yml
+#/config/secrets.yml
